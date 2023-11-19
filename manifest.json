@@ -1,0 +1,28 @@
+{
+  "name": "Dec'Home",
+  "short_name": "dechome",
+  "lang": "fr-FR",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#E27913",
+  "background_color": "#FFFFFF",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "img/icons/favicon.ico",
+      "type": "icon",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/icons/icon-196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    },
+    {
+      "src": "img/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "description": "entreprise tous corps d'état peinture carrelage plomberie menuiserie électricité maçonnerie parquet revêtement de sol"
+}
